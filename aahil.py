@@ -75,8 +75,8 @@ print  """
 jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┏╯▔'''╰┓┣━┳┫     ▇▇▇▇▇▇┳┻┳┻┳┻")
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;92mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "love"
-CorrectPassword = "lovehacker"
+CorrectUsername = "0"
+CorrectPassword = "0"
 
 loop = 'true'
 while (loop == 'true'):
